@@ -1,0 +1,15 @@
+Devices:
+
+  - address: "/dev/ttySC0"
+    slaveId: 100
+    baudRate: 9600
+    dataBits: 8
+    parity: "E"
+    stopBits: 1
+
+  - address: "/dev/ttySC1"
+    slaveId: 33
+    baudRate: 9600
+    dataBits: 8
+    parity: "E"
+    stopBits: 1
